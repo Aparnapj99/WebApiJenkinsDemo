@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiJenkins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+677e0b162e3bcea98a845ec55b9953f215b6ac2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiJenkins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiJenkins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

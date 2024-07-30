@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCCPLBNG-980\\Desktop\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj": {}
+    "D:\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCCPLBNG-980\\Desktop\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj": {
+    "D:\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCCPLBNG-980\\Desktop\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj",
+        "projectUniqueName": "D:\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj",
         "projectName": "WebApiJenkins",
-        "projectPath": "C:\\Users\\DCCPLBNG-980\\Desktop\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj",
+        "projectPath": "D:\\Kubernetes\\Jenkins\\WebApiJenkins\\WebApiJenkins.csproj",
         "packagesPath": "C:\\Users\\DCCPLBNG-980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCCPLBNG-980\\Desktop\\Kubernetes\\Jenkins\\WebApiJenkins\\obj\\",
+        "outputPath": "D:\\Kubernetes\\Jenkins\\WebApiJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
